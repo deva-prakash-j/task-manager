@@ -1,0 +1,2 @@
+INSERT INTO USERS (id, NAME, EMAIL, PWD, CREATED_AT, UPDATED_AT ) VALUES
+(1, 'Test User', 'testuser@mail.com', '$2a$10$FnSqZ3J1Q7viqSJxxWoqSedJ.zaZv3aFACac88FxmuvAngFvW7g.q',CURRENT_DATE(), CURRENT_DATE());
